@@ -1,9 +1,9 @@
 
 
-<Cover Page>
+Cover Page
 Copypaste
 
-<Table of Contents>
+Table of Contents
 Generate
 
 
