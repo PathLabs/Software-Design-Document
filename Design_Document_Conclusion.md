@@ -1,0 +1,7 @@
+Conclusion
+
+In this project our aim is to create a reliable, easy to use user interface.  This user interface will abstract the command line program provided to use by the Fofanov Bioinformatics lab.  Abstraction will allow for biologists who already know the command line to make fewer mistakes as well as allow newer biologists to learn the tool more easily. 
+
+In this document, we reviewed our system architecture and planned technology use. This included how certain design choices apply to certain requirements, and the mechanisms and control flow that our software will use.  We then went point-by-point to describe each module of our interface, how they tie-in to the Primacy modules, and explicitly describe the functions and methods used.  Also in this section was a diagram to convey this information at a glance.  Finally, we also included our release schedule and development timeline, in addition to detailed descriptions of the most notable dates and features, so as to estimate feasibility, expected release dates, and testing dates easily.
+
+Ultimately, this document not only serves as a description of what our project was and will become, but it provides an outline for use to reference, work to, and keep track of our progress.  While this document will be updated as we progress, it’s core and function will remain the same.  This structure and consistency will allow us to deliver a better product, which in turn will mean greater accessibility to Primacy and all of the benefits it brings with it. 
